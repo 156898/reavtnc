@@ -1,0 +1,8 @@
+[user]
+	name = 156898
+	email = 2074503609@.qq.com
+[core]
+	autocrlf = false
+	ignorecase = false
+[credential]
+	helper = manager
